@@ -30,7 +30,7 @@
 }
 
 .airplane {
-    height: 200px;
+    height: 50px;
     animation: airplane 1s ease infinite alternate ;
 }
 .preload h3{
